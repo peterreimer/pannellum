@@ -3,3 +3,7 @@ build/**
 
 # Ignore OS X stuff
 .DS_Store
+
+# Ignore Eclipse/Pydev  files
+.project
+.pydevproject
